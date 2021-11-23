@@ -35,8 +35,8 @@ Threats include anything that can negatively affect your business from the outsi
  1. The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. 
  2. Days may be significant for agricultural, civil, religious, or social reasons
 - # When
-3. A calendar allows you to see quickly when you are free and when you have prior commitments. 
-4. Planning events or other special occasions also becomes easier when you know your availability.
+1. A calendar allows you to see quickly when you are free and when you have prior commitments. 
+2. Planning events or other special occasions also becomes easier when you know your availability.
 - # Why
  1. Planning the daily activities.
  2. Managing the daily schedule.
