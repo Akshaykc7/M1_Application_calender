@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author your name (you@domain.com)
+ * @author Akshay K C (akshay.kc@ltts.com)
  * @brief 
  * @version 0.1
  * @date 2021-07-11
@@ -9,7 +9,7 @@
  * 
  */
 
-#include"calc.h"
+#include"calendar.h"
 
 /**
  * @brief main function of the project
