@@ -28,8 +28,7 @@ void calendar(int y, int m);       /* display calendar at m y */
 int getDayNumber(int d,int m,int y);
 char *getName(int day);
  
-// Copied from 
-// https://stackoverflow.com/questions/35103745/read-a-string-as-an-input-using-scanf
+
 void flush()
 {
     int c;
