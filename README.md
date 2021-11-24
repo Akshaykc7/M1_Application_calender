@@ -19,7 +19,7 @@
 # ISSUE TRACKING
 |ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
 |:----|:---|:-------|:------------|:--------------|:--------------|:---------------------|
-|40021067|Pavan v|Basic Calculator|1|1|4|4|
+|40020577|Akshay K C|Calendar|1|1|4|4|
 
 
 # Learning Resources
